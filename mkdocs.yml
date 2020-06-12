@@ -1,0 +1,10 @@
+site_name: pytest-nohttp
+site_description: Protect against extunittests interacting with external services via http
+site_author: Brett Dawidowski
+
+theme: readthedocs
+
+repo_url: https://github.com/codedawi/pytest-nohttp
+
+pages:
+- Home: index.md
